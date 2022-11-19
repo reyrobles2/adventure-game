@@ -307,7 +307,7 @@ https://review.udacity.com/#!/rubrics/3521/view
 
 
 
-Standout Suggestions
+#### Standout Suggestions
 Tips to personalize your project submissions and make them stand out:
 
 •	Identify the repetitive parts and refactor them into functions.
